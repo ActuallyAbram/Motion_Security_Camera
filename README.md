@@ -99,7 +99,7 @@ _Below is an example of how you can instruct your audience on installing and set
 1. Set up a new gmail account or use an account that you don't mind having potential spam sent to.
 2. Clone the repo
    ```sh
-   git clone https://github.com/ActuallyAbram/Motion_Security_Camera_scanner.git
+   git clone https://github.com/ActuallyAbram/Motion_Security_Camera.git
    ```
 3. Install packages
    ```sh
